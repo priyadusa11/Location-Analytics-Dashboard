@@ -5,4 +5,5 @@
 
 3] Technologies: PowerBI , DAX , Excel , Data Visualization.
 
-<img width="201" height="163" alt="image" src="https://github.com/user-attachments/assets/f77b0943-738e-4310-a048-939feb791353" />
+# Dashboard preview
+<img width="894" height="500" alt="image" src="https://github.com/user-attachments/assets/d56aa248-8fc8-426d-8434-26ff5406b427" />
